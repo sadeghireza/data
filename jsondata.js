@@ -6,4 +6,4 @@
     "Daily Repetition":"3"
     
     }
-  ]
+ }]
