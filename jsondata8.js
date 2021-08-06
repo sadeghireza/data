@@ -7,7 +7,7 @@
     "Age"  : "61 Years old",
     "Weight"  : "130 Pounds",
     "Height"  : "64 Inches",
-    'Telephone" : "7034813211",
+    "Telephone" : "7034813211",
     "Medical_CenterID" "WADC_GWUhosp",
     "Health_Insurer_ID": "STATE_FARM"
  }
