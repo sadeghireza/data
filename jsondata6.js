@@ -1,4 +1,4 @@
- [
+ [ {
     Patient_ID : "raPatient0ID0",
     Last_Name  : "Azari",
     First_Name : "Reza",
@@ -10,6 +10,6 @@
     Telephone  : "7034813211",
     Medical_CenterID: "WADC_GWUhosp",
     Health_Insurer_ID: "STATE_FARM"
-    
+ }
     ]
 
