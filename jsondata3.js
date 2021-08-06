@@ -1,4 +1,4 @@
-[{"Medicine_Records":{
+[{
       
     "Name":"Pronopol",
     "Generic":"Prapronolol"
@@ -6,4 +6,4 @@
     "Daily Repetition":"3"
     
     }
- }]
+ ]
