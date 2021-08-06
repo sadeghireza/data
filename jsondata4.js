@@ -1,7 +1,7 @@
 [{
       
     "Name":"Pronopol",
-    "Generic":"Prapronolol"
+    "Generic":"Prapronolol",
     "Dose":"10mg",
     "Daily Repetition":"3"
     
